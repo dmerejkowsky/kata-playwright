@@ -25,7 +25,7 @@ $ ./mvnw exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.arg
 
 ## Step 4
 
-Add tests for all the bugs you’ve found - make sure they are failing for the right reason, with good error messages.
+Add more tests for some of the bugs you’ve found - make sure they are failing for the right reason, with good error messages. Stop when you have 3 or 4 different tests
 
 ## Step 5
 
