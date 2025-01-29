@@ -29,7 +29,7 @@ Add more tests for some of the bugs you’ve found - make sure they are failing 
 
 ## Step 5
 
-Refactor using the [Page object model](https://playwright.dev/python/docs/pom)
+Refactor using the [Page object model](https://playwright.dev/python/docs/pom) design pattern
 
 ## Step 6
 
